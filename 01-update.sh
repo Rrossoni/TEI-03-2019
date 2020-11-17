@@ -3,10 +3,10 @@
 echo -e "Atualizando as listas do Apt"
     apt update
 
- echo -e "Atualizando os software"
+echo -e "Atualizando os software"
     apt -y upgrade
 
- echo -e "Forçando a atualização do sistema"
+echo -e "Forçando a atualização do sistema"
     apt -y full-upgrade
 
 echo -e "Forçando a atualização de segurança"
