@@ -11,4 +11,4 @@ apt update
 echo -e "Instalando o Lamp Server no ubuntu Server"
 #obs: utilizar a expressão regular ^ que casa com todas as opções
 #referente ao lamp (Linux, Apache, Mysql e php7.x)
-apt -y intall lamp-server^ perl python
+apt -y install lamp-server^ perl python
